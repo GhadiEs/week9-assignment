@@ -21,4 +21,4 @@ This repository contains the deliverables for the AWS Auto Scaling and Load Bala
 
 ## Load Balancer URL
 
-http://ghadi-alb-870638652.eu-north-1.elb.amazonaws.com
+http://ghadi-alb-870638652.eu-north-1.elb.amazonaws.com/
